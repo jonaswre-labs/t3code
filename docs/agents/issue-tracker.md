@@ -14,9 +14,9 @@ Issues and specs for this repo live as GitHub issues. Use the `gh` CLI for all o
 - **Apply / remove labels**: `gh issue edit <number> --add-label "..."` / `--remove-label "..."`
 - **Close**: post the explanation with `gh issue comment <number> --body "..."`, then `gh issue close <number>`. On an already-closed issue, `gh issue close --comment` drops the comment and still exits 0.
 
-This checkout is a fork (`jonaswre/t3code`, parent `pingdotgg/t3code`). Pass
-`--repo jonaswre/t3code` to every `gh issue` and `gh label` command, and use
-`repos/jonaswre/t3code/...` in `gh api` paths. Never read from or write to
+This checkout is a fork (`jonaswre-labs/t3code`, parent `pingdotgg/t3code`). Pass
+`--repo jonaswre-labs/t3code` to every `gh issue` and `gh label` command, and use
+`repos/jonaswre-labs/t3code/...` in `gh api` paths. Never read from or write to
 `pingdotgg/t3code` issues.
 
 ## Pull requests as a triage surface

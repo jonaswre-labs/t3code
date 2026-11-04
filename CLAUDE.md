@@ -4,7 +4,7 @@
 
 ### Issue tracker
 
-GitHub Issues on the fork `jonaswre/t3code`, never upstream `pingdotgg/t3code`. See `docs/agents/issue-tracker.md`.
+GitHub Issues on the fork `jonaswre-labs/t3code`, never upstream `pingdotgg/t3code`. See `docs/agents/issue-tracker.md`.
 
 ### Triage labels
 
